@@ -1,4 +1,4 @@
-![Texto alternativo](https://blogdaengenharia.com/wp-content/uploads/2021/07/Design-sem-nome-4.png)
+![Texto alternativo](https://wallpapers.com/images/high/programming-language-stacked-cubes-o6ete8w4aqet8mv7.webp)
 
 # Hello, caros Desenvolvedores e curiosos natos pela técnologia e programação👋
 
