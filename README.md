@@ -23,13 +23,15 @@
 <div><hr></div>
 
 <div>
- <h2> Linguagens e Ferramentas </h2>
+ <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas
+ 
 <table>
 <tr>
 <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
- <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/HTML1.png?raw=true" width="50px" height="50px"/></td>
-  <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/css3.png?raw=true" width="50px" height="50px"/></td>
-<td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://www.w3schools.com/html/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/HTML1.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://www.w3schools.com/css/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/css3.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://www.w3schools.com/js/default.asp/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://react.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/react.png" width="50px" height="50px"/></td>
  
 </tr>
 </table>
