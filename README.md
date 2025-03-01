@@ -19,3 +19,18 @@
 <div>
 <i> <b>Olá</b> :wave:, Me chamo <code>Lucas</code>, tenho 21 anos, moro no interior de SP e sou Estudante de Programação no curso de Engenharia de Software na  <a href="https://www.unoeste.br/" target="_blank">Unoeste</a> 👨‍💻</i>
 </div>
+
+<div><hr></div>
+
+<div>
+ <h2> Linguagens e Ferramentas </h2>
+<table>
+<tr>
+<td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+ <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+  <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
+ 
+</tr>
+</table>
+</div>
