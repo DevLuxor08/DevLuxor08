@@ -31,7 +31,7 @@
 <!-- 1 -->
 <div>
  <!-- GIF Rotativo -->
- <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Front-End
+ <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Liguagens e Técnologias
 
 <!-- Tabela onde fica as linguagens de progrmação -->
 <table>
