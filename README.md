@@ -28,15 +28,12 @@
 <!-- Barra de Enfeite -->
 <div><hr></div>
 
-<!-- 1 -->
+<!-- Front-End -->
 <div>
- <!-- GIF Rotativo -->
- <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Liguagens e Técnologias
-
-<!-- Tabela onde fica as linguagens de progrmação -->
+Front-End
+<!-- Front-End -->
 <table>
 <tr>
-<td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://www.w3schools.com/html/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/HTML1.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://www.w3schools.com/css/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/css3.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://www.w3schools.com/js/default.asp/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
@@ -45,8 +42,28 @@
 </table>
 </div>
 
-<div align="center" >
-   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devluxor08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
+<!-- Back-End -->
+<div>
+ <table>
+<!-- GIF Rotativo -->
+ <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Back-end
+<td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+ 
+ </table>
 </div>
+
+<!-- Ferramentas -->
+<div>
+ <table>
+  Ferramentas
+  <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+ </table>
+</div>
+
+<!-- Linguagens Usadas - Demonstrativo -->
+<div align="center" >
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devluxor08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+</div>
+
+
