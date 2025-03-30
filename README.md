@@ -10,7 +10,6 @@
 <div  margin-top="10" align="center">
 <table>
 <tr>
-<td><a href="https://github.com/DevLuxor08" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></td> 
 <td><a href="https://www.linkedin.com/in/lucas-silva-martines/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://www.instagram.com/devluxor/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></td>
 </tr>  
@@ -56,7 +55,9 @@ Front-End
 <div>
  <table>
   Ferramentas
-  <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+  <td><a href="https://git-scm.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/GitPng.png?raw=true" width="50px" height="50px"/></td>
+  <td><a href="https://code.visualstudio.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/VisualStudioIconPng.png?raw=true" width="50px" height="50px"/></td>
+   <td><a href="https://github.com" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></td> 
  </table>
 </div>
 
