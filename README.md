@@ -1,12 +1,12 @@
 <!-- Imagem no topo do Site -->
 <div>
-<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/dev3.gif" />
+<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
 </div>
 
 <!-- Barra de Enfeite -->
 <div><hr></div>
 
-<!-- Redes Sociais de Trbalho -->
+<!-- Redes Sociais de Trabalho -->
 <div  margin-top="10" align="center">
 <table>
 <tr>
@@ -33,10 +33,12 @@ Front-End
 <!-- Front-End -->
 <table>
 <tr>
+ 
 <td><a href="https://www.w3schools.com/html/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/HTML1.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://www.w3schools.com/css/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/css3.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://www.w3schools.com/js/default.asp/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://pt-br.react.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/react.png" width="50px" height="50px"/></td>
+ <td><a href="https://pt-br.react.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/FigmaLogo.png" width="50px" height="50px"/></td>
 </tr>
 </table>
 </div>
