@@ -6,10 +6,20 @@
 <!-- Barra de Enfeite -->
 <div><hr></div>
 
+<!-- Nome em Destaque -->
+# 👩🏻‍💻 Lucas  Martines
+
+<!-- Destaque em borda -->
+**`Desenvolvedor FullStack`**
+
+
  <!-- Texto informativo -->
 <div>
 <i> <b>Olá</b> :wave:, Me chamo <code>Lucas</code>, tenho 21 anos, moro no interior de SP e sou Estudante de Programação no curso de Engenharia de Software na  <a href="https://www.unoeste.br/" target="_blank">Unoeste</a> 👨‍💻</i>
 </div>
+
+<!-- Barra de Enfeite -->
+<div><hr></div>
 
 <!-- Redes Sociais  -->
 <div margin-top: 10px>
@@ -58,9 +68,22 @@ Front-End
 </div>
 
 <!-- Linguagens Usadas - Demonstrativo -->
-<div align="center" >
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devluxor08&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-</div>
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Devluxor08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devluxor08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
