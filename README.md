@@ -15,7 +15,7 @@
 
  <!-- Texto informativo -->
 <div>
-<i> <b>Olá</b> :wave:, Me chamo <code>Lucas</code>, tenho 21 anos, moro no interior de SP e sou Estudante de Programação no curso de Engenharia de Software na  <a href="https://www.unoeste.br/" target="_blank">Unoeste</a> 👨‍💻</i>
+<i> <b> Fala Devs </b> :wave:, Me chamo <code>Lucas</code>, tenho 21 anos, moro no interior de SP e sou Estudante de Programação no curso de Engenharia de Software na  <a href="https://www.unoeste.br/" target="_blank">Unoeste</a> 👨‍💻</i>
 </div>
 
 <!-- Barra de Enfeite -->
