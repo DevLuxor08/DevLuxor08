@@ -15,7 +15,23 @@
 
  <!-- Texto informativo -->
 <div>
-<i> <b> Fala Devs </b> :wave:, Me chamo <code>Lucas</code>, tenho 21 anos, moro no interior de SP e sou Estudante de Programação no curso de Engenharia de Software na  <a href="https://www.unoeste.br/" target="_blank">Unoeste</a> 👨‍💻</i>
+
+# Fala Devs! 👋
+
+Me chamo Lucas Martines, também conhecido como DevLuxor.<br>🎓 Estudante de Engenharia de Software | 🚀 Futuro Desenvolvedor Full Stack
+
+Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento Web, Mobile e Desktop.  
+Gosto de criar projetos que misturam tecnologia, criatividade e muita vontade de evoluir!
+
+Aqui no meu GitHub você vai encontrar:
+- 📚 Projetos de estudos
+- 💻 Aplicações Web
+- 📱 Apps Mobile
+- 📌 Dicas de desenvolvimento e aprendizado
+
+Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou até mesmo trocar uma ideia comigo!
+
+**Vamos evoluir juntos!** 🚀
 </div>
 
 <!-- Barra de Enfeite -->
