@@ -37,12 +37,6 @@ Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou at
 <!-- Barra de Enfeite -->
 <div><hr></div>
 
-<!-- Redes Sociais  -->
-<div margin-top: 10px>
-<a href="https://www.instagram.com/devluxor/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "devluxor@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-silva-martines/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <!-- Barra de Enfeite -->
 <div><hr></div>
@@ -50,7 +44,6 @@ Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou at
 <!-- Front-End -->
 <div>
 Front-End
-<!-- Front-End -->
 <table>
 <tr>
  
@@ -96,7 +89,7 @@ Front-End
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devluxor08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
