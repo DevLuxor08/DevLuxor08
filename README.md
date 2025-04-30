@@ -85,7 +85,7 @@ Front-End
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -93,7 +93,7 @@ Front-End
   />
 
 <img 
-      align="right" 
+      align="Center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devluxor08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
