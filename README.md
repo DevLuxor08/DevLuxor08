@@ -64,7 +64,7 @@ Front-End
 <div>
  <table>
 <!-- GIF Rotativo -->
- <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Back-end
+ Back-end
 <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
  
  </table>
