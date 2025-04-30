@@ -66,6 +66,8 @@ Front-End
 <!-- GIF Rotativo -->
  Back-end
 <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://nodejs.org/pt" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/node-js-icon.png?raw=true" width="50px" height="50px"/></td>
+
  
  </table>
 </div>
