@@ -56,7 +56,8 @@ Front-End
 <td><a href="https://www.w3schools.com/js/default.asp/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://pt-br.react.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/react.png" width="50px" height="50px"/></td>
 <td><a href="https://tailwindcss.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/TailWindCssLogo.png" width="50px" height="50px"/></td>
-<td><a href="https://www.figma.com/pt-br/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/FigmaLogo.png" width="50px" height="50px"/></td>
+ <td><a href="https://vite.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/vite_icon.png" width="50px" height="50px"/></td>
+
 </tr>
 </table>
 </div>
@@ -79,7 +80,8 @@ Front-End
   Ferramentas
   <td><a href="https://git-scm.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/GitPng.png?raw=true" width="50px" height="50px"/></td>
   <td><a href="https://code.visualstudio.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/VisualStudioIconPng.png?raw=true" width="50px" height="50px"/></td>
-   <td><a href="https://github.com" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></td> 
+  <td><a href="https://github.com" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></td>
+  <td><a href="https://www.figma.com/pt-br/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/FigmaLogo.png" width="50px" height="50px"/></td>
  </table>
 </div>
 
