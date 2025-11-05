@@ -37,17 +37,17 @@ Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou at
 <div><hr></div>
 <!-- REDES SOCIAIS -->
 <div>
- <a href = "mailto:devluxor@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:DevLuxor@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lucas-silva-martines/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/NykaiLux_#7875" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
 </div>
 
 <!-- Barra de Enfeite -->
 <div><hr></div>
 
 <!-- Front-End -->
-<div>
-Front-End
+ <div>
+Skills
 <table>
 <tr>
  
@@ -56,32 +56,18 @@ Front-End
 <td><a href="https://www.w3schools.com/js/default.asp/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/js.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://pt-br.react.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/react.png" width="50px" height="50px"/></td>
 <td><a href="https://tailwindcss.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/TailWindCssLogo.png" width="50px" height="50px"/></td>
- <td><a href="https://vite.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/vite_icon.png" width="50px" height="50px"/></td>
-
-</tr>
-</table>
-</div>
-
-<!-- Back-End -->
-<div>
- <table>
-<!-- GIF Rotativo -->
- Back-end
+<td><a href="https://vite.dev/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/vite_icon.png" width="50px" height="50px"/></td>
 <td><a href="https://www.python.org/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/python.png?raw=true" width="50px" height="50px"/></td>
 <td><a href="https://nodejs.org/pt" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/node-js-icon.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://git-scm.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/GitPng.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://code.visualstudio.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/VisualStudioIconPng.png?raw=true" width="50px"height="50px"/></td>
+<td><a href="https://github.com" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></td>
+<td><a href="https://www.figma.com/pt-br/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/FigmaLogo.png" width="50px" height="50px"/></td>
 
- 
+</tr>
  </table>
-</div>
-
-<!-- Ferramentas -->
-<div>
- <table>
-  Ferramentas
-  <td><a href="https://git-scm.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/GitPng.png?raw=true" width="50px" height="50px"/></td>
-  <td><a href="https://code.visualstudio.com/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/VisualStudioIconPng.png?raw=true" width="50px" height="50px"/></td>
-  <td><a href="https://github.com" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></td>
-  <td><a href="https://www.figma.com/pt-br/" target=”_blank”><img src="https://github.com/DevLuxor08/DevLuxor08/blob/main/img/FigmaLogo.png" width="50px" height="50px"/></td>
+  </div>
+ 
  </table>
 </div>
 
