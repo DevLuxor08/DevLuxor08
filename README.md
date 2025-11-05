@@ -1,10 +1,4 @@
-<!-- Imagem no topo do Site -->
-<div>
-<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
-</div>
 
-<!-- Barra de Enfeite -->
-<div><hr></div>
 
 <!-- Nome em Destaque -->
 # 👩🏻‍💻 Lucas  Martines
